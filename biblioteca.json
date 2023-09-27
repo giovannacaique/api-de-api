@@ -1,0 +1,220 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "nome": "Autobiografia",
+      "id": 4
+    },
+    {
+      "nome": "Conto",
+      "id": 5
+    },
+    {
+      "nome": "Poesia",
+      "id": 6
+    },
+    {
+      "nome": "Romance",
+      "id": 7
+    },
+    {
+      "nome": "Autoajuda",
+      "id": 8
+    },
+    {
+      "nome": "Espiritualidade ou Religioso",
+      "id": 9
+    },
+    {
+      "nome": "Acadêmico/Científico",
+      "id": 10
+    },
+    {
+      "nome": "Biografia",
+      "id": 11
+    },
+    {
+      "nome": "Thriller",
+      "id": 12
+    },
+    {
+      "nome": "Fábula",
+      "id": 13
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 4,
+      "titulo": "O Bom Filho",
+      "autor": "You-Jeong Jeong",
+      "anoPublicacao": 2016,
+      "isbn": "978-8588808515",
+      "disponivel": true,
+      "categoriaId": 12
+    },
+    {
+      "id": 5,
+      "titulo": "A paciente silenciosa",
+      "autor": "Alex Michaelides",
+      "anoPublicacao": 2019,
+      "isbn": "978-8501116437",
+      "disponivel": true,
+      "categoriaId": 12
+    },
+    {
+      "id": 6,
+      "titulo": "Eu sou Malala: A história da garota que defendeu o direito à educação e foi baleada pelo Talibã",
+      "autor": "Malala",
+      "anoPublicacao": 2013,
+      "isbn": "978-8535923438",
+      "disponivel": true,
+      "categoriaId": 4
+    },
+    {
+      "id": 7,
+      "titulo": "Em busca de mim",
+      "autor": "Viola Davis",
+      "anoPublicacao": 2022,
+      "isbn": "978-6557121382",
+      "disponivel": false,
+      "categoriaId": 4
+    },
+    {
+      "id": 8,
+      "titulo": "A Culpa é das Estrelas",
+      "autor": "John Green",
+      "anoPublicacao": 2014,
+      "isbn": "978-8580572261",
+      "disponivel": false,
+      "categoriaId": 7
+    },
+    {
+      "id": 9,
+      "titulo": "Verity",
+      "autor": "Colleen Hoover",
+      "anoPublicacao": 2020,
+      "isbn": "978-8501117847",
+      "disponivel": false,
+      "categoriaId": 7
+    },
+    {
+      "id": 10,
+      "titulo": "Eu Sempre Morro",
+      "autor": "Kaio Bruno",
+      "anoPublicacao": 2021,
+      "isbn": "978-6587677187",
+      "disponivel": false,
+      "categoriaId": 6
+    },
+    {
+      "id": 11,
+      "titulo": "Outros Jeitos de Usar a Boca",
+      "autor": "Rupi Kaur",
+      "anoPublicacao": 2017,
+      "isbn": "978-8542209303",
+      "disponivel": false,
+      "categoriaId": 6
+    },
+    {
+      "id": 12,
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "anoPublicacao": 1818,
+      "isbn": "978-8594318114",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 13,
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "anoPublicacao": 1897,
+      "isbn": "978-6555520002",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 14,
+      "titulo": "Contos de Fadas dos Irmãos Grimm",
+      "autor": "Irmãos Grimm",
+      "anoPublicacao": 2019,
+      "isbn": "978-8594318909",
+      "disponivel": false,
+      "categoriaId": 5
+    },
+    {
+      "id": 15,
+      "titulo": "O Colecionador",
+      "autor": "John Fowles",
+      "anoPublicacao": 2018,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 5
+    },
+    {
+      "id": 16,
+      "titulo": "O diário de Anne Frank",
+      "autor": "Anne Frank",
+      "anoPublicacao": 1942,
+      "isbn": "978-6559572717",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 17,
+      "titulo": "A coragem de ser imperfeito: Como aceitar a própria vulnerabilidade, vencer a vergonha e ousar ser quem você é",
+      "autor": "Brené Brown",
+      "anoPublicacao": 2016,
+      "isbn": "978-8543104331",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 18,
+      "titulo": "Manifesto do Partido Comunista: Com todos os prefácios de Marx e Engels e os Estatutos da Liga dos Comunistas",
+      "autor": "Karl Max, Friedrich Engels, Edmilson Costa e Anníbal Fernandes",
+      "anoPublicacao": 2015,
+      "isbn": "978-8572839020",
+      "disponivel": false,
+      "categoriaId": 3
+    }
+  ]
+}
